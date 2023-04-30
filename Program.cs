@@ -3,7 +3,7 @@
 namespace Ejemplo1
 {
     class Program
-    {
+    {         //le agrego un comentario al archivo
         static void Main(string[] args)
         {
             //clases, Objetos, Propiedades y Encapsulamiento.
